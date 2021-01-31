@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455863832339",
+    "firebase_url": "https://maritime-boundaries.firebaseio.com",
+    "project_id": "maritime-boundaries",
+    "storage_bucket": "maritime-boundaries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455863832339:android:7dc1700ccef61d56",
+        "android_client_info": {
+          "package_name": "com.abusharp.maritimeborder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455863832339-1ob5tlu2ien3ti3uaj4fimojlljh2sf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abusharp.maritimeborder",
+            "certificate_hash": "072e85264f7dc48c7b2b68df771e44f64cf6fa13"
+          }
+        },
+        {
+          "client_id": "455863832339-s8amf32neac5qhkgoj2hshudor871q1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eFzJS3vzgaUuZLE2PtywGD7Bj8RcTG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455863832339-s8amf32neac5qhkgoj2hshudor871q1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
